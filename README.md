@@ -129,9 +129,7 @@ Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 [PiBakery](https://www.raspberrypi.org/blog/pibakery/#comments) – not
 yet there for Linux, but shows great promise.
 
-[https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide
--
-1](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)
+[](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)
 
 [Cory
 LaNou](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)[’](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)[s
