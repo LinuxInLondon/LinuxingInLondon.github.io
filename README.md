@@ -135,12 +135,14 @@ Siram](https://www.youtube.com/watch?v=U3upi-y2pCk)
 [Katacoda: Interactive Learning Platform for Software
 Engineers](https://www.katacoda.com/)
 
+[Multi-Gigabit Networking on a Budget](https://linuxjedi.co.uk/posts/2016/Jan/02/multi-gigabit-networking-on-a-budget/)
+=======================================================================================================================
+
 Multi-Gigabit Networking on a Budget
-====================================
+<http://dev.iachieved.it/iachievedit/xenial-xerus-ethernet-fixup-for-the-raspberry-pi/>
+=======================================================================================
 
-Xenial Xerus Ethernet Fixup for the Raspberry Pi
-================================================
-
+http://dev.iachieved.it/iachievedit/xenial-xerus-ethernet-fixup-for-the-raspberry-pi/
 Dave’s notes
 ============
 
@@ -272,16 +274,12 @@ Location: Charing Cross
 
 Rate/Salary: £60,000 +
 
-1.  For the future
-
 For the future
 ==============
 
 In future editions of mkdir Linuxing we shall try to have
 Wanted/Recycling Ads and we would welcome short contributions on Linux,
 BSD, Open Source, IoT or interesting technologies (\~300 words max.).
-
-1.  Thanks
 
 Thanks
 ======
@@ -291,3 +289,5 @@ lovely people at Skills Matter, Wendy, Russell, Nic, Ali, Megan Herman,
 Fraser and Lovella. Including but not limited to Alan and his team at
 Red Hat, Andrew and the IBMers, Stephen at SUSE. Henrietta, Adele and
 Rachael at eSynergy Solutions and many more, you know who you are. :)
+
+A big, big thanks to Dave!
