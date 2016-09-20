@@ -1,11 +1,8 @@
 mkdir Linuxing – the Linuxing In London's newsletter issue 0.
 
-1.  
-
 Welcome
 =======
 
-Welcome
 Welcome to the first edition of our newsletter. We are aimed squarely at
 popularising the use of technology, open source and Linux and as a
 result our content is very varied, not just plain old Linux or BSD.
@@ -39,12 +36,9 @@ Enjoy!
 
 BrianLinuxing@gmail.com
 
-1.  
-
 Videos of Linuxing In London events
 ===================================
 
-Videos of Linuxing In London events
 If you missed out on attending our events thus far, don’t worry! All of
 our events at Skills Matters are recorded. I heartily recommend Alina’s
 presentation as a starter.
@@ -53,33 +47,26 @@ The archive of our talks can be found here: [Linuxing in
 London](https://skillsmatter.com/groups/10627-linuxing-in-london#past_events)[–](https://skillsmatter.com/groups/10627-linuxing-in-london#past_events)[past
 events](https://skillsmatter.com/groups/10627-linuxing-in-london#past_events)
 
-1.  
-
 Linuxing In London Events
 =========================
 
-Linuxing In London Events
 1.  22nd September 2016: Robots, Startups and a bit of Linux, speaker:
     Josh Elijah. Cats Vs Dogs: Securing Linux with SELinux. A quick
     introduction to SELinux, and how to debug your set-up if it all goes
     wrong, speaker: Anthony Kesterton. Puppet on Linux: Past, Present,
     and Future, speaker: John Boero.
 
-1.  19th October 2016: A Linuxing In London special: an evening with the
+2.  19th October 2016: A Linuxing In London special: an evening with the
     renowned Alina Swietochowska. The evening is kindly sponsored by QA.
-
-1.  
 
 Up-and-coming technical happenings
 ==================================
 
-Up-and-coming technical happenings
 There is so much choice, but just a few for your delectation:
 
 Heap dump – Brian’s brief editorial.
 ====================================
 
-Heap dump – Brian’s brief editorial.
 It has been some 25 years since a young Finnish student posted a simple
 comment on the minux Usenet group. Now Linux exists everywhere, at
 Google, Facebook, Mozilla and tens of thousands of other organisation.
@@ -111,12 +98,9 @@ technology, to give it a new lease of life.
 Install Linux everywhere on everything, and you will make me a very
 happy old man.
 
-1.  
-
 Around the blogs, links and even Raspberry Pi
 =============================================
 
-Around the blogs, links and even Raspberry Pi
 [Fuchsia](http://www.pocket-lint.com/news/138518-google-fuchsia-os-what-is-it-and-what-does-it-power)
 
 [Swift 3.0 Released!](https://swift.org/blog/swift-3-0-released/)
@@ -133,10 +117,6 @@ Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 
 [PiBakery](https://www.raspberrypi.org/blog/pibakery/#comments) – not
 yet there for Linux, but shows great promise.
-
-[https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide
--
-1](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)
 
 [Cory
 LaNou](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)[’](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)[s
@@ -155,21 +135,15 @@ Siram](https://www.youtube.com/watch?v=U3upi-y2pCk)
 [Katacoda: Interactive Learning Platform for Software
 Engineers](https://www.katacoda.com/)
 
-[Multi-Gigabit Networking on a Budget](https://linuxjedi.co.uk/posts/2016/Jan/02/multi-gigabit-networking-on-a-budget/)
-=======================================================================================================================
-
 Multi-Gigabit Networking on a Budget
-[Xenial Xerus Ethernet Fixup for the Raspberry Pi](http://dev.iachieved.it/iachievedit/xenial-xerus-ethernet-fixup-for-the-raspberry-pi/)
-=========================================================================================================================================
+====================================
 
 Xenial Xerus Ethernet Fixup for the Raspberry Pi
-
-1.  
+================================================
 
 Dave’s notes
 ============
 
-Dave’s notes
 Brian has asked me to put my stamp on this newsletter too. I can't do so
 without very briefly describing how Linux got me here today.
 
@@ -197,12 +171,9 @@ I'm forever indebted to Crunchbang's creator Philip Newborough in
 capturing my passion for Linux and I think I'll always tweak things so
 they're that little bit greyer.
 
-1.  
-
 Command Line morsels and gotchas
 ================================
 
-Command Line morsels and gotchas
 Not sure about xz files? Use tar xvfJ file.tar.xz or install xz-utils
 and use unxz
 
@@ -210,16 +181,12 @@ Lost your swap file? Try cat /proc/swaps
 
 Worried about performance? Use glances and dstat
 
-1.  
-
 Women in tech
 =============
 
-Women in tech
 David’s bits
 ============
 
-David’s bits
 Onto the fun stuff I've checked out this month.
 
 We forgot the cake. Yes we know we forgot the Linux 25th birthday cake
@@ -251,12 +218,9 @@ it seems Edinburgh Zoo love their penguins so much they gave one a
 medal.
 https://www.theguardian.com/uk-news/2016/aug/22/sir-nils-olav-the-penguin-receives-military-promotion-at-edinburgh-zoo
 
-1.  
-
 Jobs
 ====
 
-Jobs
 We want to help our members so we asked Henrietta Alexander
 \<<Henrietta.Alexander@esynergy-solutions.co.uk>\> to provide a short
 listing. Please contact her (with your CV) if you feel they might suit
@@ -308,22 +272,20 @@ Location: Charing Cross
 
 Rate/Salary: £60,000 +
 
-1.  
+1.  For the future
 
 For the future
 ==============
 
-For the future
 In future editions of mkdir Linuxing we shall try to have
 Wanted/Recycling Ads and we would welcome short contributions on Linux,
 BSD, Open Source, IoT or interesting technologies (\~300 words max.).
 
-1.  
+1.  Thanks
 
 Thanks
 ======
 
-Thanks
 This newsletter would not have been possible without the help of those
 lovely people at Skills Matter, Wendy, Russell, Nic, Ali, Megan Herman,
 Fraser and Lovella. Including but not limited to Alan and his team at
