@@ -5,6 +5,7 @@ mkdir Linuxing – the Linuxing In London's newsletter issue 0.
 Welcome
 =======
 
+Welcome
 Welcome to the first edition of our newsletter. We are aimed squarely at
 popularising the use of technology, open source and Linux and as a
 result our content is very varied, not just plain old Linux or BSD.
@@ -43,6 +44,7 @@ BrianLinuxing@gmail.com
 Videos of Linuxing In London events
 ===================================
 
+Videos of Linuxing In London events
 If you missed out on attending our events thus far, don’t worry! All of
 our events at Skills Matters are recorded. I heartily recommend Alina’s
 presentation as a starter.
@@ -56,13 +58,14 @@ events](https://skillsmatter.com/groups/10627-linuxing-in-london#past_events)
 Linuxing In London Events
 =========================
 
+Linuxing In London Events
 1.  22nd September 2016: Robots, Startups and a bit of Linux, speaker:
     Josh Elijah. Cats Vs Dogs: Securing Linux with SELinux. A quick
     introduction to SELinux, and how to debug your set-up if it all goes
     wrong, speaker: Anthony Kesterton. Puppet on Linux: Past, Present,
     and Future, speaker: John Boero.
 
-2.  19th October 2016: A Linuxing In London special: an evening with the
+1.  19th October 2016: A Linuxing In London special: an evening with the
     renowned Alina Swietochowska. The evening is kindly sponsored by QA.
 
 1.  
@@ -70,6 +73,7 @@ Linuxing In London Events
 Up-and-coming technical happenings
 ==================================
 
+Up-and-coming technical happenings
 There is so much choice, but just a few for your delectation:
 
 Heap dump – Brian’s brief editorial.
@@ -112,6 +116,7 @@ happy old man.
 Around the blogs, links and even Raspberry Pi
 =============================================
 
+Around the blogs, links and even Raspberry Pi
 [Fuchsia](http://www.pocket-lint.com/news/138518-google-fuchsia-os-what-is-it-and-what-does-it-power)
 
 [Swift 3.0 Released!](https://swift.org/blog/swift-3-0-released/)
@@ -129,7 +134,9 @@ Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 [PiBakery](https://www.raspberrypi.org/blog/pibakery/#comments) – not
 yet there for Linux, but shows great promise.
 
-[](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)
+[https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide
+-
+1](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)
 
 [Cory
 LaNou](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)[’](https://go-talks.appspot.com/github.com/corylanou/go-presentations/slides/testing.slide#1)[s
@@ -195,6 +202,7 @@ they're that little bit greyer.
 Command Line morsels and gotchas
 ================================
 
+Command Line morsels and gotchas
 Not sure about xz files? Use tar xvfJ file.tar.xz or install xz-utils
 and use unxz
 
@@ -207,6 +215,7 @@ Worried about performance? Use glances and dstat
 Women in tech
 =============
 
+Women in tech
 David’s bits
 ============
 
@@ -247,6 +256,7 @@ https://www.theguardian.com/uk-news/2016/aug/22/sir-nils-olav-the-penguin-receiv
 Jobs
 ====
 
+Jobs
 We want to help our members so we asked Henrietta Alexander
 \<<Henrietta.Alexander@esynergy-solutions.co.uk>\> to provide a short
 listing. Please contact her (with your CV) if you feel they might suit
@@ -303,6 +313,7 @@ Rate/Salary: £60,000 +
 For the future
 ==============
 
+For the future
 In future editions of mkdir Linuxing we shall try to have
 Wanted/Recycling Ads and we would welcome short contributions on Linux,
 BSD, Open Source, IoT or interesting technologies (\~300 words max.).
@@ -312,8 +323,9 @@ BSD, Open Source, IoT or interesting technologies (\~300 words max.).
 Thanks
 ======
 
+Thanks
 This newsletter would not have been possible without the help of those
-lovely people at Skills Matter, Wendy, Russell, Nic, Herman, Fraser and
-Lovella. Including but not limited to Alan and his team at Red Hat,
-Andrew and the IBMers, Stephen at SUSE. Henrietta, Adele and Rachael at
-eSynergy Solutions and many more, you know who you are. :)
+lovely people at Skills Matter, Wendy, Russell, Nic, Ali, Megan Herman,
+Fraser and Lovella. Including but not limited to Alan and his team at
+Red Hat, Andrew and the IBMers, Stephen at SUSE. Henrietta, Adele and
+Rachael at eSynergy Solutions and many more, you know who you are. :)
