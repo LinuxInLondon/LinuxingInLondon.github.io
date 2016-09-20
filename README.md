@@ -186,6 +186,36 @@ Worried about performance? Use glances and dstat
 Women in tech
 =============
 
+The role of women in technology is often downplayed despite being 51% of
+the population. We hear little of the immense achievements of Hedy
+Lamarr, Ada Lovelace or Margaret Hamilton. Hedy Lamarr invented spread
+spectrum technology, used every day in modern Wi-Fi, GPS and Bluetooth
+([cnet.com](http://www.cnet.com/uk/news/happy-100th-birthday-hedy-lamarr-movie-star-and-wi-fi-inventor/)).
+
+Ada Lovelace is considered to be the world’s first programmer
+([biographer.com](http://www.biography.com/people/ada-lovelace-20825323#babbage-and-the-analytical-engine)).
+Margaret Hamilton’s coding skills probably saved NASA’s Apollo
+11([wired.com](https://www.wired.com/2015/10/margaret-hamilton-nasa-apollo/)).
+
+In recent years there has been a change, an increasing desire to counter
+the gender imbalance in technological circles with the advent of the
+STEM. These are just a few of the many excellent MeetUps in and around
+London:
+
+[Women Who Code London](https://www.meetup.com/Women-Who-Code-London/)
+
+[London TechLadies](https://www.meetup.com/London-Tech-Ladies/)
+
+[Women Hack For Non
+Profits](https://www.meetup.com/Women-Hack-For-Non-Profits/)
+
+[Women Who Go (London)](https://www.meetup.com/Women-Who-Go-London/)
+
+[Women In Games WIGJ Meetup Group](https://www.meetup.com/WIGJMeetup)
+
+We are very keen to hear from any women speakers, particularly around
+Linux, BSD or Open Source. Please contact Brian or David.
+
 David’s bits
 ============
 
