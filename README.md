@@ -135,14 +135,11 @@ Siram](https://www.youtube.com/watch?v=U3upi-y2pCk)
 [Katacoda: Interactive Learning Platform for Software
 Engineers](https://www.katacoda.com/)
 
-[Multi-Gigabit Networking on a Budget](https://linuxjedi.co.uk/posts/2016/Jan/02/multi-gigabit-networking-on-a-budget/)
-=======================================================================================================================
+[Multi-Gigabit Networking on a
+Budget](https://linuxjedi.co.uk/posts/2016/Jan/02/multi-gigabit-networking-on-a-budget/)
 
-Multi-Gigabit Networking on a Budget
 <http://dev.iachieved.it/iachievedit/xenial-xerus-ethernet-fixup-for-the-raspberry-pi/>
-=======================================================================================
 
-http://dev.iachieved.it/iachievedit/xenial-xerus-ethernet-fixup-for-the-raspberry-pi/
 Dave’s notes
 ============
 
