@@ -1,0 +1,11 @@
+If you need to convert a standard LibreOffice or RTF document into markdown format for Github there are various ways
+
+You could use pandoc, unoconv or similar.
+
+But experience has taught me that they are less than perfect.
+
+The easiest approach is to upload to Google docs and then use a macro to convert to Markdown.
+
+It is not 100%, particularly on the section headers, but overall it works better than most solutions.
+
+Brian Byrne, September 2016
