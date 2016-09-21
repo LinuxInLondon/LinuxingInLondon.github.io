@@ -1,6 +1,6 @@
 mkdir Linuxing – the Linuxing In London's newsletter issue 0.
 
-Welcome
+**Welcome**
 
 Welcome to the first edition of our newsletter. We are aimed squarely at popularising the use of technology, open source and Linux and as a result our content is very varied, not just plain old Linux or BSD.
 
@@ -22,13 +22,13 @@ Enjoy!
 
 BrianLinuxing@gmail.com
 
-Videos of Linuxing In London events
+**Videos of Linuxing In London events**
 
 If you missed out on attending our events thus far, don’t worry! All of our events at Skills Matters are recorded. I heartily recommend Alina’s presentation as a starter.
 
 The archive of our talks can be found here: [Linuxing in London – past events](https://skillsmatter.com/groups/10627-linuxing-in-london#past_events) 
 
-Linuxing In London Events
+**Linuxing In London Events**
 
 *   22nd September 2016,: Robots, Startups and a bit of Linux, speaker: Josh Elijah. Cats Vs Dogs: Securing Linux with SELinux. A quick introduction to SELinux, and how to debug your set-up if it all goes wrong, speaker: Anthony Kesterton. Puppet on Linux: Past, Present, and Future, speaker: John Boero.
 
@@ -94,7 +94,7 @@ November
 
 Discount code: **isrstmsc16**
 
-Heap dump – Brian’s brief editorial.
+**Heap dump – Brian’s brief editorial.**
 
 It has been some 25 years since a young Finnish student posted a simple comment on the minix Usenet group. Now Linux exists everywhere, at Google, Facebook, Mozilla and tens of thousands of other organisation. Even at Microsoft!
 
@@ -112,7 +112,7 @@ Help your relatives, friends and colleagues reuse of those old laptops (often co
 
 Install Linux everywhere on everything, and you will make me a very happy old man.
 
-Around the blogs, links and even Raspberry Pi
+**Around the blogs, links and even Raspberry Pi**
 
 [Fuchsia](http://www.pocket-lint.com/news/138518-google-fuchsia-os-what-is-it-and-what-does-it-power) 
 
@@ -140,7 +140,7 @@ Around the blogs, links and even Raspberry Pi
 
 [Xenial Xerus Ethernet Fixup for the Raspberry Pi](http://dev.iachieved.it/iachievedit/xenial-xerus-ethernet-fixup-for-the-raspberry-pi/)
 
-Dave’s notes
+**Dave’s notes**
 
 Brian has asked me to put my stamp on this newsletter too. I can't do so without very briefly describing how Linux got me here today.
 
@@ -152,7 +152,7 @@ Ultimately I began to switch from simply using Linux, to exploring through my us
 
 I'm forever indebted to Crunchbang's creator Philip Newborough in capturing my passion for Linux and I think I'll always tweak things so they're that little bit greyer.
 
-Command Line morsels and gotchas
+**Command Line morsels and gotchas**
 
 Not sure about xz files? Use tar xvfJ file.tar.xz or install xz-utils and use unxz
 
@@ -160,7 +160,7 @@ Lost your swap file? Try cat /proc/swaps
 
 Worried about performance? Use glances and dstat
 
-Women in tech
+**Women in tech**
 
 The role of women in technology is often downplayed despite being 51% of the population. We hear little of the immense achievements of Hedy Lamarr, Ada Lovelace or Margaret Hamilton. Hedy Lamarr invented spread spectrum technology, used every day in modern Wi-Fi, GPS and Bluetooth ([cnet.com](http://www.cnet.com/uk/news/happy-100th-birthday-hedy-lamarr-movie-star-and-wi-fi-inventor/)).
 
@@ -182,7 +182,7 @@ We are very keen to hear from any women speakers, particularly around Linux, BSD
 
  
 
-David’s bits
+**David’s bits**
 
 Onto the fun stuff I've checked out this month.
 
@@ -194,7 +194,7 @@ The best way to become a *great* programmer is to reverse engineer the stuff you
 
 I'll leave you with this little nugget some of you may have missed. In case you were not aware, we love our penguins at Linuxing in London. And it seems Edinburgh Zoo love their penguins so much they gave one a medal. https://www.theguardian.com/uk-news/2016/aug/22/sir-nils-olav-the-penguin-receives-military-promotion-at-edinburgh-zoo
 
-Jobs
+**Jobs**
 
 We want to help our members so we asked Henrietta Alexander <[Henrietta.Alexander@esynergy-solutions.co.uk](mailto:Henrietta.Alexander@esynergy-solutions.co.uk)> to provide a short listing. Please contact her (with your CV) if you feel they might suit you:
 
@@ -244,11 +244,11 @@ Location: Charing Cross
 
 Rate/Salary: £60,000 +
 
-For the future
+**For the future**
 
 In future editions of mkdir Linuxing we shall try to have Wanted/Recycling Ads and we would welcome short contributions on Linux, BSD, Open Source, IoT or interesting technologies (~300 words max.).
 
-Thanks
+**Thanks**
 
 This newsletter would not have been possible without the help of those lovely people at Skills Matter, Wendy, Russell, Ali, Megan, Nic, Herman, Fraser and Lovella. Including but not limited to Alan and his team at Red Hat, Andrew and the IBMers, Stephen at SUSE. Henrietta, Adele and Rachael at eSynergy Solutions and many more, you know who you are. :)
 
